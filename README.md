@@ -1,2 +1,2 @@
-# oibsip_task-1
-Repository for the 1st task of the Oasis Infobyte Java Development Internship
+# oibsip_task-3
+Repository for the 3rd task of the Oasis Infobyte Java Development Internship
